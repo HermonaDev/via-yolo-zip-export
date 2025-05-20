@@ -39,7 +39,7 @@ MIT License - See LICENSE file for details
 
 ## Author
 
-[Your Name] - Original implementation of the ZIP-based YOLO export for VIA
+[Hermona Addisu] - Original implementation of the ZIP-based YOLO export for VIA
 
 ## Acknowledgments
 
